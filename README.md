@@ -1,5 +1,5 @@
 # YouTube Thumbnail Complexity Data Analysis
-### This repo is for Steven, Nico, and Chris to work on YouTube thumbnail complexity analysis for Sandbox.
+##This repository details the YouTube thumbnail complexity analysis for Sandbox worked on collaboratively by team Click.ai
 
 
 ## Objective
