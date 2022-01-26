@@ -1,5 +1,5 @@
 # YouTube Thumbnail & Video Data Analysis
-## This repository details the YouTube thumbnail complexity analysis for Sandbox worked on collaboratively by team Click.ai
+## This repository details the YouTube thumbnail complexity and video analysis for Sandbox worked on collaboratively by team Click.ai
 
 
 ## Objective
